@@ -2,7 +2,7 @@
 
 #include <cuda.h>
 #include <cuda_runtime.h>
-#include "../include/kernel.cuh"
+#include "kernel.cuh"
 
 __global__ void add(int * d_a, int * d_b, int * d_c) {
     *d_c = *d_a + *d_b;
