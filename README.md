@@ -5,8 +5,9 @@
 This project combines SDL3 and CUDA to create a particle physics simulator. SDL3 is used for rendering graphics and handling input, while CUDA accelerates the computation of particle interactions on the GPU, providing high performance for complex simulations.
 
 **Thanks to Codotaku and TheSpydog, most of this code for SDL3 GPU is from them!**
-**Codotaku - http://codotaku.com**
-**TheSpyDog - https://github.com/TheSpydog**
+
+- **Codotaku - http://codotaku.com**
+- **TheSpyDog - https://github.com/TheSpydog**
 
 ## Requirements
 
