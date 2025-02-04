@@ -1,0 +1,26 @@
+# Ignore build files
+build/
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vscode
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore CUDA specific files
+*.cu.obj
+*.ptx
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
